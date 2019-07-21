@@ -19,4 +19,23 @@ Time of Day
 Day of Week
 Finally, we will use a series of chi square tests to compare the significance of each independent variable on revenue.
 
-The following steps are taken to complete the study: This study will allow consumers of Yellow and Green taxis to understand …… To analyze Yellow and Green taxi data, we will use the following:
+The following steps are taken to complete the study: This study will allow consumers of Yellow and Green taxis to understand â€¦â€¦ To analyze Yellow and Green taxi data, we will use the following:
+Getting Data
+Start with January Data Add the lookup csv
+
+Variables
+Dependent: revenue = total_amount
+Independent:
+PU location, DO location (mapped to the location name)
+Date/Time =
+Time of day by hour
+Day of Week (as available)
+distance
+Data cleaning
+Remove first row with NaN values code here
+Shared Functions
+TO DO!
+
+Creating summary df code here with explanation
+Splitting date and time
+Plotting with Title, Axes, Legend
