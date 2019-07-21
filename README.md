@@ -39,3 +39,6 @@ TO DO!
 Creating summary df code here with explanation
 Splitting date and time
 Plotting with Title, Axes, Legend
+![Average Revenue Percentage](https://user-images.githubusercontent.com/49292265/61593302-e0c0cd80-abab-11e9-82d3-1760cf849cb2.png)
+![DistributionoftripRevenuebypickuphour](https://user-images.githubusercontent.com/49292265/61593309-f33b0700-abab-11e9-809b-22762db94859.png)
+![Total Revenue Percentage](https://user-images.githubusercontent.com/49292265/61593311-fa621500-abab-11e9-88dc-e60b8e6db9a9.png)
